@@ -100,16 +100,19 @@ config.vm.hostname = "my-project"
 ## Usage
 
 **Start Environment**
+
 ```console
 $ vagrant up
 ```
 
 **Stop Environment**
+
 ```console
 $ vagrant halt
 ```
 
 **Enter Inside The Vagrant Box**
+
 ```console
 $ vagrant ssh
 ```
