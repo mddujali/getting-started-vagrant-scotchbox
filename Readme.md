@@ -129,7 +129,7 @@ Enter IP Address and Domain name
 #### How To Access The Database?
 Install GUI Tool
 
-- [HeidiSQL](https://www.heidisql.com/) - Recommended
+- [HeidiSQL](https://www.heidisql.com/) - (Recommended)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Navicat For MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
